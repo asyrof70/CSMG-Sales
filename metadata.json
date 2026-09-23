@@ -1,0 +1,6 @@
+{
+  "name": "GIS Pemetaan Minat Pelanggan PAM AETRA Tangerang",
+  "description": "Dashboard GIS Pemetaan Minat Pelanggan Sambungan Air Bersih PAM AETRA Tangerang berbasis Supabase, Google Sheets, dan Peta Satelit Leaflet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
